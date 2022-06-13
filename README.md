@@ -1,16 +1,15 @@
-### Hi there 👋
+<div class="badges">
+  <a href="https://www.instagram.com/tartur_dev/" class="instagram">
+    <img src="https://shields.io/badge/Instagram-deeppink?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram account">
+  </a>
+  
+  <a href="https://twitter.com/tartur_dev_" class="twitter">
+    <img src="https://shields.io/badge/Twitter-dodgerblue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter account">
+  </a>
+  
+  <a href="https://www.twitch.tv/tartur_dev" class="twitch">
+    <img src="https://shields.io/badge/Twitch-darkviolet?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch account">
+  </a>
+</div>
 
-<!--
-**Tartur-dev/Tartur-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This README is under construction. Please come back later.
