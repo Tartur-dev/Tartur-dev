@@ -26,4 +26,4 @@
 ### :telephone_receiver: You can contact me by the following social networks:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tartur_dev/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.instagram.com/tartur_dev/) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/797145312438648832)
 
-> :bread:: *See ya soon!*
+> :bread:: *See ya soon! (Don't forget to check out my main projects below!)*
