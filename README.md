@@ -1,6 +1,6 @@
 # :wave: Hi, my name is Arthur Barbera.
-> :man_student: I am a young high school senior who likes to develop in many kinds of projects, such as web apps, low-level server apps, Spigot plugins, and more!
-> :heart: I have other passions, as the taekwondo martial art, playing guitar, mathematics...
+> :man_student: I am a young high school senior who likes to develop in many kinds of projects, such as web apps, low-level server apps, Spigot plugins, and more!<br>
+> :heart: I have other passions, as the taekwondo martial art, playing guitar, mathematics...<br>
 > :bar_chart: You can discover more of my statistics in the rest of this README.
 
 ---
