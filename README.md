@@ -14,8 +14,8 @@
 	</thead>
 	<tbody>
 		<tr>
-			<td scope="row"><img src="https://github-readme-stats.vercel.app/api?username=tarturr&theme=onedark&show_icons=true&hide_border=false&count_private=true"></td>
-			<td scope="row"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarturr&layout=compact"></td>
+			<td scope="row"><img src="https://github-readme-stats.vercel.app/api?username=tarturr&theme=radical&show_icons=true&hide_border=false&count_private=true"></td>
+			<td scope="row"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarturr&layout=compact&theme=radical"></td>
 		</tr>
 	</tbody>
 </table>
